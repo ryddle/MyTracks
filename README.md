@@ -1,5 +1,5 @@
 # MyTracks
-From the last Google My Tracks open source mercurial repo.
+Fork from justin66 that is a copy from the last Google My Tracks open source mercurial repo.
 
 At the time of writing Google's old open source My Tracks project lives here: 
 https://code.google.com/p/mytracks/
